@@ -1,4 +1,4 @@
-# <a name = "top">C331_project</a>
+# <a name = "top">CSCI331_project1</a>
 
 ## Anchors
 [First meeting](#first) <br>
